@@ -12,9 +12,8 @@ class Funciones():
 
 #----------------------------INICIO ENTORNOS ---------------------------
 
-    EntornoFranciaVersionSeis="https://212.83.164.238/ctv6/login/login.html"
-    EntornoEspañaVersionSeis="http://192.168.204.219:9080/chronotime/index.html"
-    GooglePage="https://www.spotify.com/es/"
+   
+    GooglePage=""
 
 #--------------------------- FIN DE ENTORNOS --------------------------
 
